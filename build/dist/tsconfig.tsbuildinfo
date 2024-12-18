@@ -1,0 +1,1 @@
+{"root":["../../client/eslint.config.js","../../client/vite.config.ts","../../client/src/app.tsx","../../client/src/main.tsx","../../client/src/vite-env.d.ts","../../server/server.ts"],"errors":true,"version":"5.7.2"}
